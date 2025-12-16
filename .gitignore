@@ -408,3 +408,9 @@ FodyWeavers.xsd
 /dailycost-web/.vscode/extensions.json
 /dailycost-web/.vscode/extensions.json
 /src/DailyCost.Api/appsettings.Development.json
+/dailycost-web/.env.production
+/docker/.env
+/docker/docker-compose.api.yml
+/docker/Dockerfile
+*.gz
+/deploy.sh
