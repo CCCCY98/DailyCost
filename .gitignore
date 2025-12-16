@@ -407,3 +407,4 @@ FodyWeavers.xsd
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,dotnet
 /dailycost-web/.vscode/extensions.json
 /dailycost-web/.vscode/extensions.json
+/src/DailyCost.Api/appsettings.Development.json
